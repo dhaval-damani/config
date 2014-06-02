@@ -1,0 +1,7 @@
+[user]
+	name = Dhaval Damani
+	email = dhaval.damani@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
