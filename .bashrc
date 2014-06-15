@@ -12,3 +12,6 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 #Git
 alias gst="git status"
 alias g="git"
+
+#Being Lazy
+alias c="clear"
